@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on enhancing my skills
 
-- 🌱 I’m currently learning **NLP,DEEP LEARNING ,COMPUTER VISION g**
+- 🌱 I’m currently learning **NLP, DEEP LEARNING ,COMPUTER VISION **
 
 - 📫 How to reach me **amanrawat9911637275@gmail.com**
 
