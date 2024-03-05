@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm AMAN RAWAT</h1>
-<h3 align="center">A passionate frontend developer and Machine learning engineer from India</h3>
+<h3 align="center">A passionate full stack developer and Machine learning engineer from India</h3>
 
-- 🔭 I’m currently working on [STUDENT GUIDE](https://student-guide-three.vercel.app/)
+- 🔭 I’m currently working on enhancing my skills
 
-- 🌱 I’m currently learning **Node.js, Cloud computing**
+- 🌱 I’m currently learning **NLP,DEEP LEARNING ,COMPUTER VISION g**
 
 - 📫 How to reach me **amanrawat9911637275@gmail.com**
 
-- ⚡ Fun fact **I am funny 😂** 
+
 <img align="right" alt="codding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 <h3 align="left">Connect with me:</h3>
