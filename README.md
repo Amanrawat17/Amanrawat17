@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AMAN RAWAT</h1>
-<h3 align="center">A passionate full stack developer and Machine learning engineer from India</h3>
+<h3 align="center">A passionate full stack developer and Machine learning and Computer vision engineer from India</h3>
 
 - 🔭 I’m currently working on enhancing my skills
 
